@@ -8,6 +8,9 @@ pip install -r requirements.txt
 Входные данные передаются через файл конфигурации test_api.env.
 
 В файле конфигурации переменные соответствуют:
+
 GitUserName - имя пользователя GitHub
+
 Token - токен API
+
 RepoName - имя репозитория
